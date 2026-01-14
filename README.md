@@ -1,8 +1,8 @@
 ## Hi there 👋
--My name is Ryan
--I am studying Computer Science at Missouri State University
--I am 19 years old
--My favorite show is old spongebob
+-My name is Ryan\n
+-I am studying Computer Science at Missouri State University\n
+-I am 19 years old\n
+-My favorite show is old spongebob\n
 
 
 <!--
