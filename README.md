@@ -1,4 +1,9 @@
 ## Hi there 👋
+-My name is Ryan
+-I am studying Computer Science at Missouri State University
+-I am 19 years old
+-My favorite show is old spongebob
+
 
 <!--
 **RyanMSU/RyanMSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
